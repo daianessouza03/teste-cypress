@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('Entre em Contato', () => {
   it('passes', () => {
     cy.visit('prova_qa_1/index.html')
 
